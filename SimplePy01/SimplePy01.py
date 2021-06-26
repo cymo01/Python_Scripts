@@ -7,8 +7,6 @@
 # Maintainer: Kem White
 
 import numpy as np
-import sys
-import pickle
 import random
 print("Hello, world?")
 # Create 2 new lists height and weight
