@@ -9,6 +9,7 @@
 import numpy as np
 import random
 print("Hello, world?")
+
 # Create 2 new lists height and weight
 print("Hello, world!")
 #%%
@@ -31,5 +32,6 @@ print(np_weight)
 
 print(np.pi)
 
-random.gauss(0,1)
+myVar = random.gauss(0,1)
+print(myVar)
 print(random.gauss(0,1))
