@@ -8,6 +8,7 @@
 
 import numpy as np
 import random
+import math
 print("Hello, world?")
 
 # Create 2 new lists height and weight
@@ -18,7 +19,7 @@ weight = [81.65, 97.52, 95.25, 92.98, 86.18, 88.45]
 print(height)
 print(weight)
 
-#%%
+
 
 print(height)
 print(weight)
@@ -35,3 +36,11 @@ print(np.pi)
 myVar = random.gauss(0,1)
 print(myVar)
 print(random.gauss(0,1))
+
+# Now computer the factorial of a number
+n=22
+a=math.factorial(n)
+print(a)
+print(math.factorial(n))
+
+# Now compute the cosine of an angle in degrees.
