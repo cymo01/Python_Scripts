@@ -7,9 +7,14 @@
 # Maintainer: Kem White
 
 import numpy as np
+import pandas as pd
+import matplotlib
+import sys
+print(sys.version)
 import random
 import math
 print("Hello, world?")
+print("Hello, World!")
 
 # Create 2 new lists height and weight
 print("Hello, world!")
